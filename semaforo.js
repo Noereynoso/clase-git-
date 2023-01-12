@@ -1,4 +1,4 @@
-let semaforo = 'amarillo';
+let semaforo = 'rojo';
 
 switch (semaforo){
     case 'verde':

@@ -1,0 +1,9 @@
+let marca = "Ford "; 
+let modelo ="Fiesta";
+let precio ="150000";
+let km ="200 kilómetros";
+let color ="Azul";
+let cuotas ="12 cuotas ";
+let anio ="2019";
+let patente ="APL123";
+let vendido =" no está vendido";

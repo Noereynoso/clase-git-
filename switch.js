@@ -11,7 +11,7 @@ console.log('La bicicleta con manor rodado es la ' + marcaRodadoPequeño);
 
 switch (marcaRodadoMasGrande){
     case 'rodadoAuroa':
-        console.log('mellevo esa bicieta');
+        console.log('me llevo esa bicieta');
         break;
     case 'rodadoMontainBike':
         console.log('no me llevo la bicicleta');

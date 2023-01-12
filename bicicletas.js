@@ -41,7 +41,7 @@
         "año" : 2022,
         "color": "violeta",
         "paso": 10 ,
-        "tipo": "montainboke",
+        "tipo": "montain bike",
         "presio": 54.569,
         "vendida": "false",
 }]
